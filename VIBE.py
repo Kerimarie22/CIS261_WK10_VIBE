@@ -1,4 +1,4 @@
-# KERI LOGAB
+# KERI LOGAN
 # CIS261
 # WK10 VIBE Coding
 
